@@ -1,4 +1,5 @@
-#Spring MVC1
+# Spring MVC1 강의
+
 ## 👩🏻‍💻 serverlet
 - https://github.com/rineun/SpringMVC1/tree/main/servlet
 
